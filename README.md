@@ -1,5 +1,5 @@
 # My projects
-##### Hi, there! I'm Marysia - an aspiring junior frontend developer. I'd love to show you my projects. I'm glad to show you my best work. 
+##### Hi, there! - an aspiring junior frontend developer. I'd love to show you my projects. I'm glad to show you my best work. 
 ## :small_blue_diamond: Game Connect Four :video_game:
 ### [Click to play live](https://marcie290.github.io/Connect-four-Game/)  |  [Click to review the code](https://github.com/marcie290/Connect-four-Game)
 ##### Game built with JavaScript, HTML and CSS. </br> </br></br>
