@@ -6,3 +6,6 @@
 ## :large_orange_diamond: Website about Mars Rover Perseverance :alien:
 ### [Click to view live](https://marcie290.github.io/Website-about-Rover-Perseverance/)  |  [Click to review the code](https://github.com/marcie290/Website-about-Rover-Perseverance)
 ##### Fully responsive website built with HTML and CSS.
+## :large_orange_diamond: React Todo App :heavy_check_mark:
+### [Click to view live](https://marcie290.github.io/React-to-do-app/)  |  [Click to review the code](https://github.com/marcie290/React-to-do-app)
+##### Fully responsive website built with HTML and CSS.
