@@ -8,4 +8,4 @@
 ##### Fully responsive website built with HTML and CSS.
 ## :large_orange_diamond::heavy_check_mark: React Todo App 
 ### [Click to view live](https://marcie290.github.io/React-to-do-app/)  |  [Click to review the code](https://github.com/marcie290/React-to-do-app)
-##### Fully responsive website built with HTML and CSS.
+##### Simple React app.
